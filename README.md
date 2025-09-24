@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/10ac3e93-305c-4452-bafd-585024276b4c" alt="Banner">
+</p>
+
 # Bem vindo ao meu perfil do GitHub
 ## 👋 Olá, meu nome é Lívia  
 ### 👩‍💻Sobre Mim
